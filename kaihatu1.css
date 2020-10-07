@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+.header {
+    height: 70px;
+    background-color: #a8a8ff;
+}
+.headerlogo {
+    font-size: 37px;
+    color: aliceblue;
+    padding-top: 11px;
+    padding-left: 25px;
+    padding-right: 185px;
+    float: left;
+}
+
+.button1,.button2 {
+    font-size: 25px;
+    color: aliceblue;
+    background-color: #a8a8ff;
+    margin-top: 22px;
+    margin-right: 50px;
+    float: left;
+    border: none;
+    outline: none;
+}
+
+.button3,.button4 {
+    font-size: 22px;
+    color: aliceblue;
+    background-color: #a8a8ff;
+    margin-top: 21px;
+    margin-right: 50px;
+    float: left;
+    border: none;
+    outline: none;
+}
+
+.button1:hover,.button2:hover,.button3:hover,.button4:hover {
+    color: #a8a8ff;
+    background-color: aliceblue
+}
+
+.ojigi {
+    text-align: center;
+    width: 20%;
+    height: 20%;
+} 
