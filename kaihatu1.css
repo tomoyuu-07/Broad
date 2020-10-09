@@ -43,6 +43,8 @@ body {
 }
 
 .koujityuu {
+    text-align: center;
+    font-size: 30px;
     margin: auto;
     width: 20%;
     height: 20%;
